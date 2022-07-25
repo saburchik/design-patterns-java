@@ -5,8 +5,8 @@ public class ProjectFactory {
 	
 	public ProjectFactory(Project project) {
 		this.project = project;
-	}
-	public void setProject(Project projecct) {
+	}	
+	public void setProject(Project project) {
 		this.project = project;
 	}
 	Project cloneProject() {
