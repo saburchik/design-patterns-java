@@ -9,9 +9,13 @@
 | 01 | **Factory method** | The created interface creates an object. The choice of creating an instance remains with the class that implements the interface.  |
 | 02 | **Abstract method**  | Creating interfaces for interconnected and interdependent objects. Without binding to specific classes. |
 | 03 | **Singleton**  | The only instance to which there will be global access. |
-| 04 | **Builder** | `Soon` |
-| 05 | **Prototype** | `Soon` |
-| 06 | **Creational patterns** | `Soon`
+| 04 | **Builder** | To create different objects from the same dataset |
+| 05 | **Prototype** | To create a copy of a given object |
+| 06 | **Adapter** | Ensuring the collaboration of classes whose interfaces are incompatible |
+| 07 | **Bridge** | `Soon` |
+| 08 | **Composite** | `Soon` |
+| 09 | **Decorator** | `Soon` |
+| 10 | **Facade** | `Soon` |
 
 ### Source of examples:
 
