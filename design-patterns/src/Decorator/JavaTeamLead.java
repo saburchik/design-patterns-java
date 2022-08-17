@@ -13,6 +13,4 @@ public class JavaTeamLead extends DeveloperDecorator {
 	public String makeJob() {
 		return super.makeJob() + "\n" + sendWeekReport();
 	}
-	
-	
 }
